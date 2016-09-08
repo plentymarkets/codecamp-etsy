@@ -1,0 +1,8 @@
+{
+  "name": "EtsyIntegrationShowcasePlugin",
+  "description": "Integration for the Etsy marketplace",
+  "namespace": "Etsy",
+  "author": "plentymarkets",
+  "type": "general",
+  "serviceProvider": "Etsy\\EtsyServiceProvider"
+}
