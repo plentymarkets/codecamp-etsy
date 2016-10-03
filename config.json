@@ -1,0 +1,38 @@
+[
+	{
+		"key": "consumerKey",
+		"label":"Consumer key",
+		"type": "text",
+		"default":"myConsumerKey"
+	},
+	{
+		"key": "consumerSecret",
+		"label":"Consumer secret",
+		"type": "text",
+		"default":"myConsumerSecret"
+	},
+	{
+		"key": "accessToken",
+		"label":"Access token",
+		"type": "text",
+		"default":"myAccessToken"
+	},
+	{
+		"key": "accessTokenSecret",
+		"label":"Access token secret",
+		"type": "text",
+		"default":"myAccessTokenSecret"
+	},
+	{
+		"key": "shopId",
+		"label": "Shop ID",
+		"type": "text",
+		"default": "99999"
+	},
+	{
+		"key": "referrerId",
+		"label": "Referrer ID",
+		"type": "text",
+		"default": "999"	
+	}
+]
